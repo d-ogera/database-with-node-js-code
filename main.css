@@ -129,27 +129,7 @@ input[type=email]:focus {
     transition: color 1s;
 }
 
-.privacy {
-    margin-top: 5px;
-    position: relative;
-    font-size: 12px;
-    bottom: 0%;
-}
 
-.privacy a:link {
-    color: #eaa05b;
-    text-decoration: none;
-}
-
-.privacy a:visited {
-    color: #eaa05b;
-    text-decoration: none;
-}
-
-.privacy a:hover {
-    color: #549494;
-    transition: color 1s;
-}
 
 *:focus {
     outline: none;
